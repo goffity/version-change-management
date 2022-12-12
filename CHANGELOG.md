@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/goffity/version-change-management/compare/v1.2.0...v2.0.0) (2022-12-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* use google cloud function to handle request
+
+### Features
+
+* use google cloud function to handle request ([cd8b39f](https://github.com/goffity/version-change-management/commit/cd8b39fd1664d8a2399aefb1ab1b5477dec58759))
+
 ## [1.2.0](https://github.com/goffity/version-change-management/compare/v1.1.0...v1.2.0) (2022-12-12)
 
 
