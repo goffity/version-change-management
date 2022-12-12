@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/goffity/version-change-management/compare/v1.0.0...v1.1.0) (2022-12-12)
+
+
+### Features
+
+* use express to handle request ([a76cdb0](https://github.com/goffity/version-change-management/commit/a76cdb076934dfc14cdcb45515b28ce2123cca1d))
+
 ## 1.0.0 (2022-12-12)
 
 
